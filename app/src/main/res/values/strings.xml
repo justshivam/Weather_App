@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Weather App</string>
+    <string name="weather_app">Weather App</string>
+    <string name="unknown">Unknown</string>
+    <string name="visibility">Visibility :</string>
+    <string name="location">Location :</string>
+    <string name="temp">Temp :</string>
+    <string name="humidity">Humidity :</string>
+    <string name="pressure">Pressure :</string>
+    <string name="search">Search</string>
+    <string name="enter_city">Enter City</string>
+    <string name="enter_a_valid_city">Enter a valid city</string>
+    <string name="logo">LOGO</string>
+</resources>
